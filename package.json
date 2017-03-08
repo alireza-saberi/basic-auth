@@ -1,0 +1,28 @@
+{
+  "name": "basic-auth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alireza-saberi/basic-auth.git",
+  "author": "Alireza Saberi <saberi.ar.eng@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "angular": "^1.6.2",
+    "angular-cookies": "^1.6.3",
+    "angular-route": "^1.6.2",
+    "bootstrap": "^3.3.7",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.0.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-jsdoc3": "^1.0.1",
+    "gulp-jsmin": "^0.1.5",
+    "gulp-pages": "^0.0.0",
+    "gulp-path": "^3.0.3",
+    "gulp-processhtml": "^1.1.0",
+    "gulp-sass": "^3.1.0",
+    "jquery": "^3.1.1"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
